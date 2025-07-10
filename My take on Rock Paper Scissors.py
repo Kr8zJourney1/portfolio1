@@ -25,3 +25,5 @@ elif  my_number ==2 and comp_turn == 1:
     print("you win!")
 elif  my_number ==1 and comp_turn == 2:
     print("you lose!")
+
+# Big Thanks You!!! to Dr. Angela Yu, Developer and Lead Instructor. My instructor at Udemy. Because of her help I can code.
