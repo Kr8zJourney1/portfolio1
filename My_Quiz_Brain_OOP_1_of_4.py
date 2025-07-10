@@ -1,3 +1,4 @@
+# Big Thanks You!!! to Dr. Angela Yu, Developer and Lead Instructor. My instructor at Udemy. Because of her help I can code.
 from question_model import Question
 from data import question_data
 from quiz_brain import QuizBrain,
