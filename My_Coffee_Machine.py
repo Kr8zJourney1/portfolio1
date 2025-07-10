@@ -232,3 +232,5 @@ while power_on:
 # TODO: 5. Process coins.
 
 # TODO: 6. Check transaction successful
+
+# Big Thanks You!!! to Dr. Angela Yu, Developer and Lead Instructor. My instructor at Udemy. Because of her help I can code.
