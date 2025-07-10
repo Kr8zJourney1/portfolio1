@@ -73,3 +73,5 @@ else:
         nope = False
 
     print("Game has ended")
+
+# Big Thanks You!!! to Dr. Angela Yu, Developer and Lead Instructor. My instructor at Udemy. Because of her help I can code.
