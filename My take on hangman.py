@@ -54,3 +54,5 @@ while not game_over:
         print("****************************YOU WIN****************************")
 
     print(stages[lives])
+
+# Big Thanks You!!! to Dr. Angela Yu, Developer and Lead Instructor. My instructor at Udemy. Because of her help I can code.
