@@ -29,3 +29,5 @@ Now.... how are you going to carry all that GOLD :)  """)
             print("Game Over!!! You were impailed by spikes.")
 
     else:print("GAME OVER!!! Upon diving you kicked awake A syren and was eatten")
+
+# Big Thanks You!!! to Dr. Angela Yu, Developer and Lead Instructor. My instructor at Udemy. Because of her help I can code.
