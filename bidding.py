@@ -28,3 +28,5 @@ for bidder_name, bid_amount in bidders.items():
 ###########################################
 
 print(f"The winning bidder is {winning_bidder.title()} with a bid of ${highest_bid}.")
+
+# Big Thanks You!!! to Dr. Angela Yu, Developer and Lead Instructor. My instructor at Udemy. Because of her help I can code.
